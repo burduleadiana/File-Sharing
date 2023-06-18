@@ -1,0 +1,1 @@
+PUBLISH fisier1.txt, GET_FILES
